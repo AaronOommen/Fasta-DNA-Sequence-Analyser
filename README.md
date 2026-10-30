@@ -4,9 +4,9 @@ My First Bioinformatics Project!
 
 ## Overview
 
-FASTA Sequence Analyzer is a Python-based bioinformatics tool designed to perform basic DNA sequence analysis from FASTA files. Using Biopython and Pandas, the tool processes nucleotide sequences and generates a structured report containing important sequence characteristics which gets exported as a csv file.
+FASTA Sequence Analyzer is a Python-based bioinformatics tool which is designed to perform basic DNA sequence analysis from FASTA files. Using Biopython and Pandas, the tool processes nucleotide sequences and generates a structured report which contains important sequence characteristics which gets exported as a csv file.
 
-The program automates common sequence analysis tasks, including nucleotide composition analysis, GC content calculation, reverse complement generation, and translation of DNA sequences into their corresponding amino acid sequences using the standard genetic code.
+The program helps in the automation of common sequence analysis tasks, including nucleotide composition analysis, GC content calculation, reverse complement generation, and translation of DNA sequences into their corresponding amino acid sequences using the standard genetic code.
 
 ## Features
 
